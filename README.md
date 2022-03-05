@@ -1,9 +1,11 @@
-# Portifolio Data Science
+# Portfólio Data Science
+
+**Hello World!**
+Se você chegou até aqui, seja bem vindo!  
+
+![Portfólio Data Science](https://user-images.githubusercontent.com/83508006/156885493-c85ca679-9644-4af3-ad93-4ff966f5a1bb.gif)
 
 
-
-Hello World!
-Se você chegou até aqui, seja bem vindo! 
 
 # Apresentações:
 
@@ -13,13 +15,13 @@ Em 2022 comecei um curso de MBA na área de dados, cujo ganhei em um concurso na
 
 # Meus objetivos são: 
 
-Me desenvolver na área de dados
-Fazer a diferença e trazer insights para as pessoas
-Me tornar uma analista de dados e futuramente uma ciêntista de dados
+- Me desenvolver na área de dados
+- Fazer a diferença e trazer insights para as pessoas
+- Me tornar uma analista de dados e futuramente uma ciêntista de dados
 
 
-Links:
+***Links:***
 
-LinkedIN
+[LinkedIn](www.linkedin.com/in/daiane-ribeiro-53a5a3145)
 
 Nesta página você vai encontrar os meus projetos de ciência de dados criados com a linguagem de programação Python.
