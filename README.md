@@ -29,6 +29,5 @@ Em 2022 comecei um curso de MBA na área de dados, cujo ganhei em um concurso na
 Nesta página você vai encontrar os meus projetos de ciência de dados criados com a linguagem de programação Python.
 
 - Análise Ibovespa 
-- Machine Learning - Análise Bitcoin 
-- Machine Learning - Análise Etherium
+
 
